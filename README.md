@@ -1,1 +1,1 @@
-https://memory-game253.github.io/
+https://magnetar253.github.io/memory-game/
